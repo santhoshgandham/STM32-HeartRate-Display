@@ -1,2 +1,2 @@
 # STM32-HeartRate-Display
-Firmware code for heart rate monitoring system using STM32 microcontroller. Measures heart rate data from sensor and displays it on OLED display in real-time. Includes hardware connections and setup instructions.
+This repository contains firmware code for a heart rate monitoring system developed using STM32 microcontroller. The code interfaces with a heart rate sensor to measure heart rate data and displays it in real-time on an OLED display. Additionally, the repository includes documentation detailing the hardware connections, project overview, and instructions for setting up and running the project.
